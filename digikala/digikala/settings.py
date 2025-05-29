@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-!-zs@y)$)xxsrcgxiqiz25nn+^vtz(i(ap=^yvz1au!g*bol@v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://manafi-light.onrender.com]
 
 
 # Application definition
